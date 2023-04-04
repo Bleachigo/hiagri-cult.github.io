@@ -257,7 +257,7 @@ li {
 	margin-bottom: 86px;
 }
 
-.directions__img {
+.directions__link {
 	width: 345px;
 	position: relative;
 	border-radius: 15px;
@@ -471,7 +471,7 @@ li {
 		max-width: 195px;
 	}
 
-	.directions__img {
+	.directions__link {
 		width: 305px;
 	}
 
@@ -523,11 +523,11 @@ li {
 		flex-wrap: wrap;
 	}
 
-	.directions__img {
+	.directions__link {
 		width: 345px;
 	}
 
-	.directions__img:not(:last-of-type) {
+	.directions__link:not(:last-of-type) {
 		margin-bottom: 28px;
 	}
 
